@@ -1,4 +1,6 @@
 ### Hi there 👋
+### My name is inwoo
+### 🌱 I’m currently learning ...
 
 <!--
 **inwoo2ya/inwoo2ya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

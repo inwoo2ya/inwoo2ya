@@ -1,9 +1,13 @@
-### Hi there 👋
-### My name is Inwoo Lee...[![Solved.ac.Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=inwoo2ya)](https://solved.ac/inwoo2ya/)
+# LEE IN WOO 👋
+[![Solved.ac.Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=inwoo2ya)](https://solved.ac/inwoo2ya/)
 
 
-### 🌱 I’m currently learning ...!
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+## Skills
+### I’m currently learning ...!
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=Python&logoColor=black)
+
 
 <!--
 **inwoo2ya/inwoo2ya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

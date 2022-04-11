@@ -3,12 +3,11 @@
 
 
 ## Skills
-### I’m currently learning ...!
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=Python&logoColor=black)
 
-
+### I’m currently learning ...!
 <!--
 **inwoo2ya/inwoo2ya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

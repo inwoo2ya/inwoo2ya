@@ -1,5 +1,5 @@
 ### Hi there 👋
-### My name is inwoo
+### My name is Inwoo Lee...
 ### 🌱 I’m currently learning ...
 
 <!--

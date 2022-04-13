@@ -10,8 +10,8 @@
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
 
 ### Tools
-![VisualStudioCode]("https://img.shields.io/badge/VisualStudioCode-FF3366.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white)
-
+![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-FF3366.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white)
+![IntellJIDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?&style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
 ### I’m currently learning ...!
 <!--
 **inwoo2ya/inwoo2ya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

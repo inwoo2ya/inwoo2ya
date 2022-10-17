@@ -8,7 +8,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-3776AB.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=White)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
 ### Frameworks & Platform & Tech
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-3DDC84.svg?&style=for-the-badge&logo=Spring&logoColor=white)
@@ -18,6 +18,7 @@
 ![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-FF3366.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 ![IntellJIDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?&style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-3DDC84.svg?style=for-the-badge&logo=AndroidStudio&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
 ### I’m currently learning ...!
 <!--
 **inwoo2ya/inwoo2ya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

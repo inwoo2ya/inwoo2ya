@@ -14,7 +14,7 @@
 ![Spring](https://img.shields.io/badge/Spring-3DDC84.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white)
-![Nest.js](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)
+![Nest.js](https://img.shields.io/badge/NestJs-ea2845?style=for-the-badge&logo=Nest.js&logoColor=white)
 ### Tools
 ![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-FF3366.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 ![IntellJIDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?&style=for-the-badge&logo=IntelliJIDEA&logoColor=white)

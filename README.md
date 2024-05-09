@@ -3,6 +3,7 @@
 
 
 ## Skills
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inwoo2ya)](https://github.com/inwoo2ya/github-readme-stats)
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)

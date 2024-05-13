@@ -1,6 +1,7 @@
 # LEE IN WOO 👋
 [![Solved.ac.Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=inwoo2ya)](https://solved.ac/inwoo2ya/)
-
+계속하여 성장하는 2년차 웹 개발자 이인우입니다.
+저는 풀스택 개발자로 프로젝트를 참여한 경험이 있습니다. 그리고 현재 Front-End에 관심이 많아 Front-End 개발자 커리어를 이어나가고 있습니다. 
 
 ## Skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inwoo2ya)](https://github.com/anuraghazra/github-readme-stats)

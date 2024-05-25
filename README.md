@@ -3,7 +3,7 @@
 
 계속하여 성장하는 2년차 Front-End 개발자 이인우입니다.
 ## Blog
-[링크텍스트](https://velog.io/@inwoo2ya/)
+[https://velog.io/@inwoo2ya/](https://velog.io/@inwoo2ya/)
 ## Skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inwoo2ya)](https://github.com/anuraghazra/github-readme-stats)
 

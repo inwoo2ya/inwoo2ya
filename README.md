@@ -2,9 +2,9 @@
 [![Solved.ac.Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=inwoo2ya)](https://solved.ac/inwoo2ya/)
 
 계속하여 성장하는 2년차 Front-End 개발자 이인우입니다.
-
-[랠릿 이력서] (https://www.rallit.com/hub/resumes/210454/%EC%9D%B4%EC%9D%B8%EC%9A%B0)
-[블로그](https://velog.io/@inwoo2ya/)
+### Follow Me
+- #### [Resume](https://www.rallit.com/hub/resumes/210454/%EC%9D%B4%EC%9D%B8%EC%9A%B0)
+- #### [blog](https://velog.io/@inwoo2ya/)
 
 ## Skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inwoo2ya)](https://github.com/anuraghazra/github-readme-stats)
@@ -14,12 +14,18 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white) 
-### Frameworks & Platform & Tech
+### Frameworks & TechSpeC
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-ea2845?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-3DDC84.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
+### Server
+![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+### DB
+![mySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-4479A1?style=for-the-badge&logo=MariaDB&logoColor=white)
 ### Tools
 ![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-FF3366.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 ![IntellJIDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?&style=for-the-badge&logo=IntelliJIDEA&logoColor=white)

@@ -2,8 +2,10 @@
 [![Solved.ac.Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=inwoo2ya)](https://solved.ac/inwoo2ya/)
 
 계속하여 성장하는 2년차 Front-End 개발자 이인우입니다.
-## Blog
-[https://velog.io/@inwoo2ya/](https://velog.io/@inwoo2ya/)
+
+[랠릿 이력서] (https://www.rallit.com/hub/resumes/210454/%EC%9D%B4%EC%9D%B8%EC%9A%B0)
+[블로그](https://velog.io/@inwoo2ya/)
+
 ## Skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inwoo2ya)](https://github.com/anuraghazra/github-readme-stats)
 

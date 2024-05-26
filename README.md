@@ -1,7 +1,7 @@
 # LEE IN WOO 👋
 [![Solved.ac.Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=inwoo2ya)](https://solved.ac/inwoo2ya/)
-
-계속하여 성장하는 2년차 Front-End 개발자 이인우입니다.
+안녕하세요.
+계속해서 성장하는 Front-End 개발자 이인우입니다.
 ### Follow Me
 - #### [Resume](https://www.rallit.com/hub/resumes/210454/%EC%9D%B4%EC%9D%B8%EC%9A%B0)
 - #### [blog](https://velog.io/@inwoo2ya/)

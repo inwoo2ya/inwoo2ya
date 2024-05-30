@@ -2,7 +2,7 @@
 [![Solved.ac.Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=inwoo2ya)](https://solved.ac/inwoo2ya/)
 
 > 안녕하세요.<br>
-> 기술적 역량을 강화하기 위해 지속해서 학습하며 노력하고 있는 웹 개발자 이인우 입니다.
+> 기술적 역량을 강화하기 위해 지속해서 학습하며 성장하고 있는 웹 개발자 이인우 입니다.
 > <br><br>
 > 현재 Front-End 직무를 담당하고 있고, <br>
 > 프로젝트에서 풀스택 개발을 한 경험이 있습니다.

@@ -39,7 +39,8 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
 ![NX](https://img.shields.io/badge/Nx-143055.svg?&style=for-the-badge&logo=nx&logoColor=white)
-### I’m currently learning ...!
+
+🌱 I’m currently learning ...
 <!--
 **inwoo2ya/inwoo2ya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

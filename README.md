@@ -20,7 +20,7 @@
 ![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white) 
 ### Frameworks 
-![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
+![React](https://img.shields.io/badge/React-000000.svg?&style=for-the-badge&logo=React&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/Nest.js-ea2845?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-3DDC84.svg?&style=for-the-badge&logo=Spring&logoColor=white)

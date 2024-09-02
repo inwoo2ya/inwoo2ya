@@ -9,8 +9,8 @@
 
 ### Follow Me
 - #### [Resume](https://www.rallit.com/hub/resumes/210454/%EC%9D%B4%EC%9D%B8%EC%9A%B0)
-- #### [blog](https://velog.io/@inwoo2ya/)
-
+- #### [![velog](https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@inwoo2ya/)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=inwoo2ya&color=dark)](https://velog.io/@inwoo2ya/)
 ## Skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inwoo2ya)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -24,7 +24,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/Nest.js-ea2845?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-3DDC84.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-00000.svg?&style=for-the-badge&logo=Express.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-00000.svg?&style=for-the-badge&logo=Express&logoColor=white)
 ### Server
 ![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)

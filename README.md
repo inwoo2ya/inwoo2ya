@@ -8,6 +8,7 @@
 > 프로젝트에서 풀스택 개발 및 리더 경험이 있습니다.
 
 ### Follow Me
+#### [사이드 프로젝트(명함없어서 만든 전자 명함)](https://inwoo2ya.github.io/)
 #### [Resume](https://www.rallit.com/hub/resumes/210454/%EC%9D%B4%EC%9D%B8%EC%9A%B0)
 #### [![velog](https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@inwoo2ya/)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=inwoo2ya&color=dark)](https://velog.io/@inwoo2ya/)

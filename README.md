@@ -33,7 +33,7 @@
 ### DB
 ![mySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-4479A1?style=for-the-badge&logo=MariaDB&logoColor=white)
-### Tools
+### Etc...
 ![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-FF3366.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 ![IntellJIDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?&style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-3DDC84.svg?style=for-the-badge&logo=AndroidStudio&logoColor=white)

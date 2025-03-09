@@ -27,7 +27,7 @@
 ![Nest.js](https://img.shields.io/badge/Nest.js-ea2845?style=for-the-badge&logo=nestjs&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-00000.svg?&style=for-the-badge&logo=Express&logoColor=white)
-![React-native](https://img.shields.io/badge/ReactNative-61DAFB.svg?&style=for-the-badge&logo=ReactNative&logoColor=white)
+![React-native](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
 ### Server
 ![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
@@ -42,6 +42,12 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
 ![NX](https://img.shields.io/badge/Nx-143055.svg?&style=for-the-badge&logo=nx&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052cc?style=for-the-badge&logo=Bitbucket&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052cc?style=for-the-badge&logo=Jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
+
 
 🌱 I’m currently learning ...
 <!--

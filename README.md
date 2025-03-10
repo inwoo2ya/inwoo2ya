@@ -57,6 +57,7 @@
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052cc?style=for-the-badge&logo=Bitbucket&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052cc?style=for-the-badge&logo=Jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
 
 
 🌱 I’m currently learning ...

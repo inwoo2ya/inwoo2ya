@@ -37,6 +37,7 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![NX](https://img.shields.io/badge/Nx-143055.svg?&style=for-the-badge&logo=nx&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![chart](https://img.shields.io/badge/chart.js-FF6384.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 
 ### OS
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)

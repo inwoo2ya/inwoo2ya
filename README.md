@@ -4,8 +4,7 @@
 > 안녕하세요.<br>
 > 기술적 역량을 강화하기 위해 지속해서 학습하며 성장하고 있는 웹 개발자 이인우 입니다.
 > <br><br>
-> 현재 Full-stack 개발 직무를 담당하고 있고, <br>
-> 프로젝트에서 풀스택 개발 및 리더 경험이 있습니다.
+> 현재 Full-stack 개발 직무를 담당하고 있습니다. <br>
 
 ### Follow Me
 #### [Resume](https://www.rallit.com/hub/resumes/210454/%EC%9D%B4%EC%9D%B8%EC%9A%B0)
